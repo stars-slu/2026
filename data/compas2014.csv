@@ -1,0 +1,1017 @@
+"sex","age","race","priors_count","charge","is_recid","score"
+"Female",39,"Caucasian",0,"Battery",0,1
+"Male",37,"Hispanic",0,"Battery",0,1
+"Male",33,"African-American",0,"Tampering With Physical Evidence",1,10
+"Male",25,"Caucasian",9,"Battery",1,10
+"Male",35,"African-American",13,"Uttering a Forged Instrument",1,8
+"Female",63,"Hispanic",1,"arrest case no charge",0,1
+"Male",33,"Other",0,"Battery",0,1
+"Male",27,"Caucasian",1,"Burglary Dwelling Assault/Batt",1,7
+"Male",25,"Caucasian",9,"Pos Cannabis W/Intent Sel/Del",1,8
+"Male",19,"African-American",1,"Battery",1,4
+"Male",24,"African-American",1,"arrest case no charge",0,2
+"Male",31,"Caucasian",0,"Battery",0,5
+"Male",59,"African-American",14,"arrest case no charge",1,9
+"Female",64,"Caucasian",2,"Resist/Obstruct W/O Violence",0,1
+"Female",24,"African-American",0,"Battery",0,2
+"Female",30,"Hispanic",4,"Battery on Law Enforc Officer",1,5
+"Male",32,"African-American",11,"Poss Pyrrolidinovalerophenone",1,6
+"Female",26,"Caucasian",0,"Fail To Obey Police Officer",0,6
+"Male",63,"Hispanic",1,"arrest case no charge",0,1
+"Female",32,"African-American",4,"arrest case no charge",1,10
+"Male",39,"Caucasian",1,"",0,4
+"Female",49,"Caucasian",6,"Crim Use of Personal ID Info",0,6
+"Male",56,"Caucasian",0,"Possession of Cocaine",0,1
+"Male",24,"Other",0,"Burglary Unoccupied Dwelling",0,2
+"Male",23,"African-American",0,"Possession of Cannabis",1,3
+"Male",34,"African-American",2,"Battery",1,2
+"Male",27,"Caucasian",2,"Trespass Struct/Conveyance",0,4
+"Female",51,"Caucasian",0,"Driving Under The Influence",1,1
+"Male",41,"African-American",0,"Battery",0,1
+"Male",52,"African-American",0,"Uttering a Forged Instrument",0,4
+"Male",30,"African-American",11,"Battery",1,9
+"Male",36,"Caucasian",8,"Felony Driving While Lic Suspd",1,7
+"Male",30,"Caucasian",4,"False Imprisonment",0,2
+"Male",22,"African-American",3,"Prowling/Loitering",1,9
+"Male",29,"African-American",1,"Battery",0,3
+"Male",20,"African-American",0,"Possession Burglary Tools",0,8
+"Male",35,"African-American",2,"arrest case no charge",0,10
+"Female",25,"Other",0,"Aggravated Assault W/Dead Weap",0,2
+"Male",37,"Caucasian",3,"arrest case no charge",0,1
+"Male",28,"African-American",3,"Possess Cannabis/20 Grams Or Less",1,4
+"Male",26,"African-American",1,"Battery",1,8
+"Male",34,"Caucasian",5,"Battery",0,4
+"Male",33,"Caucasian",1,"Driving Under The Influence",1,3
+"Male",27,"African-American",0,"Aggrav Battery w/Deadly Weapon",0,2
+"Female",51,"Caucasian",0,"Battery on Law Enforc Officer",0,1
+"Male",28,"Caucasian",1,"Pos Cannabis W/Intent Sel/Del",0,5
+"Male",24,"African-American",0,"Grand Theft in the 3rd Degree",0,3
+"Male",29,"African-American",0,"Aggravated Assault W/Dead Weap",0,1
+"Male",23,"African-American",1,"Grand Theft in the 3rd Degree",0,6
+"Male",37,"Caucasian",0,"Forging Bank Bills/Promis Note",0,1
+"Male",27,"Hispanic",0,"Battery",0,8
+"Male",34,"Hispanic",2,"arrest case no charge",1,5
+"Male",34,"Caucasian",1,"Battery",0,1
+"Male",24,"Caucasian",1,"Disorderly Intoxication",0,4
+"Male",60,"African-American",1,"arrest case no charge",0,1
+"Male",22,"Caucasian",0,"Leaving the Scene of Accident",0,3
+"Male",29,"Caucasian",0,"Battery",1,6
+"Male",28,"Hispanic",2,"arrest case no charge",1,5
+"Female",50,"African-American",3,"Aggravated Assault W/Dead Weap",0,2
+"Male",20,"Other",0,"Possession of Cocaine",1,8
+"Male",28,"Caucasian",1,"Agg Battery Grt/Bod/Harm",1,4
+"Male",54,"African-American",2,"Battery",0,1
+"Male",35,"African-American",1,"Battery",0,2
+"Male",47,"Caucasian",3,"Drivg While Lic Suspd/Revk/Can",0,1
+"Female",24,"Caucasian",6,"Poss Contr Subst W/o Prescript",1,9
+"Male",29,"Caucasian",0,"Battery",1,4
+"Male",29,"African-American",4,"arrest case no charge",1,7
+"Male",52,"Caucasian",4,"Battery",0,3
+"Female",48,"Caucasian",0,"Leave Accd/Attend Veh/Less $50",0,1
+"Male",52,"African-American",4,"Fail Register Vehicle",0,5
+"Male",32,"Caucasian",1,"arrest case no charge",1,1
+"Male",63,"Caucasian",1,"DUI Property Damage/Injury",0,1
+"Male",28,"African-American",16,"Aggravated Battery / Pregnant",1,8
+"Male",38,"African-American",15,"Drivg While Lic Suspd/Revk/Can",1,7
+"Female",22,"Caucasian",0,"Battery",0,3
+"Male",20,"African-American",1,"arrest case no charge",0,3
+"Male",27,"African-American",3,"Battery",1,7
+"Male",22,"African-American",11,"Possession of Cocaine",1,10
+"Male",27,"Caucasian",6,"arrest case no charge",1,6
+"Male",28,"African-American",10,"Driving While License Revoked",0,3
+"Male",29,"African-American",0,"DUI Level 0.15 Or Minor In Veh",0,1
+"Male",38,"African-American",0,"Felony Battery (Dom Strang)",0,1
+"Female",58,"African-American",4,"Poss 3,4 MDMA (Ecstasy)",1,2
+"Male",21,"African-American",0,"Use Scanning Device to Defraud",0,3
+"Female",45,"Caucasian",1,"Felony Driving While Lic Suspd",0,6
+"Male",38,"Caucasian",1,"Crimin Mischief Damage $1000+",1,1
+"Male",47,"African-American",20,"Tamper With Witness/Victim/CI",0,9
+"Male",35,"African-American",1,"Battery",1,9
+"Male",65,"African-American",2,"Violation of Injunction Order/Stalking/Cyberstalking",1,2
+"Male",35,"African-American",0,"Fail To Obey Police Officer",0,4
+"Male",37,"African-American",11,"Aggravated Battery / Pregnant",0,4
+"Male",33,"Caucasian",5,"arrest case no charge",0,5
+"Male",54,"Other",0,"Grand Theft (Motor Vehicle)",0,1
+"Female",31,"African-American",0,"Battery",0,1
+"Female",59,"Caucasian",2,"Grand Theft in the 3rd Degree",0,3
+"Male",21,"African-American",2,"arrest case no charge",0,10
+"Male",53,"Caucasian",1,"arrest case no charge",0,1
+"Male",28,"African-American",0,"Felony Driving While Lic Suspd",0,1
+"Male",23,"Hispanic",0,"Driving Under The Influence",0,4
+"Male",22,"African-American",1,"arrest case no charge",0,5
+"Male",26,"Caucasian",1,"arrest case no charge",1,2
+"Male",25,"Caucasian",0,"Felony Battery",1,2
+"Male",41,"Caucasian",2,"DUI Property Damage/Injury",0,2
+"Female",37,"Hispanic",1,"Grand Theft in the 3rd Degree",0,3
+"Male",23,"African-American",6,"Grand Theft in the 3rd Degree",1,9
+"Male",24,"Caucasian",1,"Possession of Cocaine",0,3
+"Female",25,"African-American",1,"arrest case no charge",0,9
+"Female",37,"African-American",0,"Possession of Cocaine",0,5
+"Female",23,"Other",0,"Battery",0,10
+"Female",23,"African-American",0,"Grand Theft in the 3rd Degree",0,2
+"Male",27,"African-American",4,"Pos Cannabis W/Intent Sel/Del",1,9
+"Male",47,"Caucasian",0,"Leave Acc/Attend Veh/More $50",0,1
+"Male",21,"Caucasian",2,"Grand Theft (Motor Vehicle)",1,9
+"Female",37,"African-American",3,"Resist Officer w/Violence",0,7
+"Female",23,"Other",0,"Battery",0,4
+"Male",20,"Caucasian",0,"Grand Theft in the 3rd Degree",0,4
+"Female",36,"African-American",1,"Susp Drivers Lic 1st Offense",0,2
+"Female",33,"African-American",0,"Simulation of Legal Process",0,2
+"Female",29,"Caucasian",1,"Burglary Conveyance Unoccup",0,5
+"Male",35,"African-American",7,"Possession of Cannabis",0,6
+"Male",24,"African-American",0,"Driving While License Revoked",0,3
+"Female",32,"Caucasian",1,"Battery",1,3
+"Male",47,"Caucasian",2,"Tamper With Witness/Victim/CI",0,4
+"Male",48,"African-American",25,"arrest case no charge",1,10
+"Male",26,"Caucasian",5,"Possession of Cocaine",1,4
+"Male",29,"African-American",2,"Battery",0,4
+"Male",37,"African-American",6,"Felony Petit Theft",1,5
+"Male",21,"African-American",1,"arrest case no charge",0,8
+"Male",26,"Caucasian",0,"Possession of Cocaine",0,4
+"Male",30,"African-American",1,"arrest case no charge",0,7
+"Female",52,"African-American",0,"Aggravated Assault w/Firearm",0,1
+"Male",28,"African-American",1,"arrest case no charge",0,3
+"Male",32,"African-American",1,"arrest case no charge",0,7
+"Male",51,"African-American",3,"Grand Theft in the 3rd Degree",0,2
+"Male",27,"Hispanic",1,"Expired DL More Than 6 Months",0,1
+"Female",28,"Caucasian",3,"Battery",0,4
+"Male",21,"African-American",2,"Possession of Cocaine",1,9
+"Male",32,"African-American",19,"Possession of Cocaine",1,10
+"Female",69,"Hispanic",0,"DUI - Enhanced",0,1
+"Male",47,"Hispanic",0,"Battery",0,1
+"Female",33,"Caucasian",1,"Battery",0,1
+"Male",25,"Caucasian",1,"Possession of Cocaine",0,5
+"Male",22,"African-American",6,"arrest case no charge",1,7
+"Male",20,"Caucasian",0,"Pos Cannabis W/Intent Sel/Del",0,4
+"Male",35,"Caucasian",2,"Child Abuse",0,1
+"Female",20,"African-American",0,"Grand Theft in the 3rd Degree",0,4
+"Male",35,"African-American",1,"arrest case no charge",0,1
+"Female",30,"African-American",3,"Introduce Contraband Into Jail",0,4
+"Female",22,"African-American",0,"Battery",0,3
+"Male",27,"African-American",3,"Burglary Conveyance Armed",1,3
+"Female",38,"African-American",8,"Battery",1,7
+"Male",69,"Hispanic",0,"Battery",0,1
+"Male",39,"African-American",1,"arrest case no charge",0,6
+"Male",28,"African-American",1,"Aggravated Assault W/dead Weap",0,4
+"Male",31,"African-American",0,"Driving While License Revoked",0,10
+"Male",20,"African-American",1,"arrest case no charge",1,10
+"Male",60,"Caucasian",1,"arrest case no charge",0,1
+"Male",53,"Hispanic",0,"Battery",0,1
+"Female",26,"African-American",3,"Possess Cannabis/20 Grams Or Less",0,5
+"Male",24,"Caucasian",3,"Battery",0,4
+"Male",24,"African-American",1,"arrest case no charge",0,6
+"Male",43,"African-American",0,"Battery",1,1
+"Female",53,"Caucasian",0,"Driving Under The Influence",0,1
+"Female",37,"Caucasian",0,"Lve/Scen/Acc/Veh/Prop/Damage",0,1
+"Male",22,"Hispanic",0,"Possess Drug Paraphernalia",0,3
+"Male",35,"Other",0,"Grand Theft (Motor Vehicle)",0,1
+"Male",27,"African-American",2,"Agg Battery Grt/Bod/Harm",0,5
+"Male",29,"Caucasian",1,"Battery",0,6
+"Male",40,"Hispanic",0,"DUI - Enhanced",0,2
+"Female",20,"African-American",0,"Grand Theft in the 3rd Degree",0,8
+"Female",54,"Caucasian",1,"Resist Officer w/Violence",0,3
+"Female",23,"African-American",3,"arrest case no charge",1,5
+"Male",33,"African-American",4,"Battery",1,5
+"Female",40,"Caucasian",0,"Battery",0,1
+"Male",47,"African-American",5,"arrest case no charge",0,4
+"Male",37,"Caucasian",0,"Battery",0,1
+"Male",35,"Caucasian",0,"Battery",0,1
+"Female",56,"Caucasian",1,"arrest case no charge",1,2
+"Male",23,"Caucasian",1,"Battery",0,2
+"Female",27,"African-American",3,"Grand Theft (Motor Vehicle)",1,9
+"Female",23,"African-American",0,"Battery",0,3
+"Male",34,"Caucasian",0,"Battery",0,4
+"Female",26,"Caucasian",3,"Battery",0,3
+"Male",20,"African-American",0,"Battery",1,10
+"Male",20,"African-American",1,"arrest case no charge",0,9
+"Male",28,"African-American",7,"Aggravated Assault W/Dead Weap",1,7
+"Male",21,"Caucasian",1,"Battery on Law Enforc Officer",0,4
+"Male",32,"Hispanic",0,"Battery",0,2
+"Female",28,"Caucasian",1,"Battery",0,4
+"Male",40,"Hispanic",0,"Solic to Commit Battery",0,1
+"Male",21,"African-American",0,"Grand Theft in the 3rd Degree",0,4
+"Male",20,"African-American",0,"Burglary Unoccupied Dwelling",1,10
+"Male",44,"Caucasian",0,"Possession of Cannabis",0,1
+"Male",20,"African-American",1,"Poss3,4 Methylenedioxymethcath",0,3
+"Female",26,"African-American",5,"Poss Pyrrolidinovalerophenone",1,9
+"Male",29,"Caucasian",7,"Battery",1,10
+"Male",27,"African-American",0,"Battery",0,3
+"Male",45,"Other",0,"Battery",0,1
+"Male",25,"Caucasian",0,"Grand Theft in the 3rd Degree",0,2
+"Male",66,"Other",0,"Fleeing Or Attmp Eluding A Leo",0,1
+"Male",43,"Caucasian",4,"Burglary Dwelling Occupied",1,5
+"Male",33,"Caucasian",0,"Poss Alprazolam W/int Sell/Del",1,2
+"Female",23,"African-American",0,"Battery",0,4
+"Male",56,"Other",9,"Trespass Structure w/Dang Weap",0,1
+"Male",31,"Caucasian",7,"Exposes Culpable Negligence",0,3
+"Female",38,"African-American",14,"Possession of Cocaine",1,10
+"Male",27,"African-American",3,"Grand Theft in the 3rd Degree",1,8
+"Male",22,"African-American",3,"Uttering a Forged Instrument",1,8
+"Male",41,"African-American",0,"Assault",0,1
+"Male",49,"African-American",4,"Battery",0,2
+"Male",61,"Caucasian",3,"Battery",1,2
+"Female",21,"Caucasian",1,"Grand Theft in the 3rd Degree",0,6
+"Male",57,"Caucasian",0,"",1,2
+"Female",21,"Caucasian",0,"Grand Theft in the 3rd Degree",1,6
+"Male",54,"Caucasian",14,"Battery",1,4
+"Male",35,"African-American",2,"Assault",0,7
+"Male",32,"African-American",2,"arrest case no charge",0,3
+"Female",20,"Caucasian",3,"Battery",1,10
+"Male",23,"Caucasian",0,"Burglary Conveyance Unoccup",0,3
+"Male",21,"Caucasian",5,"Poss Pyrrolidinovalerophenone",1,8
+"Female",41,"Caucasian",0,"Battery",0,1
+"Male",72,"Caucasian",3,"arrest case no charge",0,1
+"Male",47,"Caucasian",0,"Battery",0,1
+"Male",34,"African-American",2,"Ride Tri-Rail Without Paying",0,3
+"Male",49,"Caucasian",1,"Resist Officer w/Violence",0,3
+"Male",22,"African-American",0,"Burglary Unoccupied Dwelling",0,3
+"Male",29,"African-American",2,"Driving License Suspended",0,1
+"Female",24,"African-American",0,"Felony Batt(Great Bodily Harm)",0,3
+"Male",27,"African-American",1,"Grand Theft in the 3rd Degree",0,2
+"Male",28,"Other",3,"arrest case no charge",0,2
+"Male",61,"Caucasian",0,"Driving Under The Influence",0,1
+"Male",32,"Other",0,"Battery",0,1
+"Male",36,"African-American",0,"Felony Driving While Lic Suspd",0,5
+"Male",30,"African-American",0,"Battery",0,1
+"Male",37,"Hispanic",2,"Exposes Culpable Negligence",0,3
+"Male",25,"Hispanic",5,"arrest case no charge",0,8
+"Male",32,"African-American",24,"Driving While License Revoked",1,7
+"Male",57,"African-American",19,"Felony Driving While Lic Suspd",0,3
+"Male",19,"Caucasian",0,"Battery",1,6
+"Male",57,"African-American",27,"arrest case no charge",0,10
+"Female",25,"African-American",4,"arrest case no charge",1,7
+"Female",49,"Caucasian",8,"arrest case no charge",0,2
+"Male",26,"Caucasian",0,"Battery",0,2
+"Female",36,"African-American",0,"DUI Level 0.15 Or Minor In Veh",0,1
+"Male",46,"Caucasian",0,"Stalking (Aggravated)",0,1
+"Male",28,"Caucasian",6,"Grand Theft in the 3rd Degree",0,4
+"Male",57,"African-American",0,"Felony Battery (Dom Strang)",0,1
+"Male",27,"African-American",3,"arrest case no charge",0,3
+"Male",31,"Caucasian",1,"Grand Theft in the 3rd Degree",1,7
+"Male",37,"African-American",8,"Burglary Unoccupied Dwelling",0,2
+"Male",51,"Hispanic",3,"Disorderly Conduct",0,2
+"Male",56,"Caucasian",4,"Possession of Cocaine",0,1
+"Male",33,"Caucasian",7,"Felony Battery (Dom Strang)",1,8
+"Female",40,"African-American",0,"Grand Theft in the 1st Degree",0,1
+"Male",29,"Caucasian",2,"Grand Theft in the 3rd Degree",0,3
+"Male",32,"Caucasian",2,"Possession Of Heroin",1,4
+"Male",43,"African-American",1,"Robbery Sudd Snatch No Weapon",0,3
+"Male",25,"African-American",1,"arrest case no charge",0,2
+"Male",22,"African-American",0,"Grand Theft in the 3rd Degree",0,4
+"Male",51,"African-American",3,"Felony Driving While Lic Suspd",0,7
+"Male",25,"Other",24,"arrest case no charge",1,10
+"Male",35,"Hispanic",12,"Aggravated Assault W/Dead Weap",0,9
+"Male",24,"Asian",0,"Battery",0,3
+"Male",29,"African-American",13,"Poss Pyrrolidinovalerophenone",1,10
+"Male",26,"African-American",9,"Drivg While Lic Suspd/Revk/Can",1,8
+"Male",31,"Other",0,"Viol Prot Injunc Repeat Viol",0,1
+"Male",32,"Caucasian",6,"Refuse Submit Blood/Breath Test",0,7
+"Male",44,"African-American",19,"Battery",1,9
+"Male",43,"Caucasian",0,"Susp Drivers Lic 1st Offense",0,1
+"Male",26,"African-American",8,"Prowling/Loitering",1,10
+"Male",27,"Caucasian",1,"arrest case no charge",0,9
+"Female",22,"African-American",0,"Battery",1,7
+"Female",58,"African-American",3,"arrest case no charge",0,1
+"Male",39,"Caucasian",0,"Battery",0,1
+"Male",39,"Other",6,"Burglary Unoccupied Dwelling",0,5
+"Male",34,"African-American",0,"arrest case no charge",1,2
+"Male",35,"African-American",1,"Violation License Restrictions",0,2
+"Male",36,"African-American",2,"Possession of Cocaine",0,2
+"Male",27,"African-American",1,"Grand Theft in the 3rd Degree",0,4
+"Male",59,"Caucasian",3,"Driving Under The Influence",1,1
+"Male",50,"African-American",0,"Aggravated Battery / Pregnant",0,1
+"Female",51,"African-American",1,"Battery",0,7
+"Female",25,"Caucasian",0,"Grand Theft in the 3rd Degree",0,4
+"Female",42,"African-American",0,"Aggrav Battery w/Deadly Weapon",0,1
+"Female",33,"African-American",0,"Battery",0,1
+"Male",25,"African-American",0,"Poss Unlaw Issue Driver Licenc",0,3
+"Male",42,"Caucasian",1,"Battery",0,1
+"Male",30,"African-American",3,"Carrying Concealed Firearm",1,2
+"Male",46,"Caucasian",0,"Driving Under The Influence",0,1
+"Male",21,"Caucasian",0,"Battery",1,4
+"Male",24,"African-American",1,"Battery",1,4
+"Female",33,"Caucasian",0,"Battery",0,1
+"Male",37,"Hispanic",0,"Tamper With Witness/Victim/CI",1,3
+"Male",29,"Caucasian",7,"Battery",1,7
+"Male",21,"Other",0,"Burglary Structure Unoccup",1,5
+"Male",22,"Caucasian",5,"Possession Of Alprazolam",1,8
+"Female",30,"African-American",0,"Battery",0,2
+"Male",26,"Caucasian",0,"Aggravated Battery / Pregnant",0,2
+"Male",26,"Other",0,"Battery",0,4
+"Female",46,"African-American",4,"arrest case no charge",0,4
+"Female",46,"African-American",0,"Felony Driving While Lic Suspd",0,1
+"Male",29,"African-American",12,"Possession of Cocaine",1,10
+"Male",70,"Caucasian",0,"DUI Property Damage/Injury",0,1
+"Male",38,"African-American",37,"arrest case no charge",1,7
+"Male",60,"Caucasian",3,"Resist Officer w/Violence",0,1
+"Male",43,"African-American",0,"Deliver Cannabis",0,4
+"Male",40,"African-American",1,"arrest case no charge",0,1
+"Male",47,"African-American",0,"Battery",0,5
+"Male",21,"Caucasian",0,"Battery",1,8
+"Male",53,"Caucasian",1,"Aggravated Assault W/Dead Weap",0,1
+"Male",22,"African-American",0,"Open Carrying Of Weapon",0,6
+"Female",27,"Caucasian",0,"Burglary With Assault/battery",0,2
+"Male",28,"Caucasian",3,"arrest case no charge",0,3
+"Female",42,"Caucasian",0,"Battery",0,1
+"Male",27,"African-American",25,"arrest case no charge",1,10
+"Male",48,"African-American",1,"Hiring with Intent to Defraud",0,1
+"Male",37,"Caucasian",1,"Battery",1,1
+"Male",39,"Caucasian",1,"Solicit Deliver Cocaine",0,3
+"Male",35,"Hispanic",0,"Battery",0,2
+"Male",23,"African-American",3,"Tampering With Physical Evidence",0,7
+"Female",20,"African-American",0,"Grand Theft in the 3rd Degree",0,5
+"Male",23,"Caucasian",0,"Poss3,4 Methylenedioxymethcath",0,3
+"Male",40,"Caucasian",4,"Driving Under The Influence",0,1
+"Male",28,"Other",1,"Felony Driving While Lic Suspd",1,3
+"Male",53,"Caucasian",1,"arrest case no charge",0,1
+"Male",25,"Caucasian",0,"arrest case no charge",1,2
+"Male",67,"African-American",4,"Driving License Suspended",0,1
+"Male",20,"Caucasian",0,"arrest case no charge",1,6
+"Male",24,"African-American",1,"Burglary Unoccupied Dwelling",1,2
+"Male",23,"Hispanic",0,"Agg Fleeing/Eluding High Speed",0,2
+"Male",28,"Caucasian",0,"Battery",0,3
+"Male",40,"Caucasian",0,"Battery",1,1
+"Male",38,"African-American",4,"Sell or Offer for Sale Counterfeit Goods",0,3
+"Male",26,"Caucasian",0,"Grand Theft (Motor Vehicle)",0,5
+"Male",50,"Caucasian",0,"Grand Theft in the 3rd Degree",0,7
+"Male",24,"African-American",4,"Agg Assault W/int Com Fel Dome",1,6
+"Female",36,"Caucasian",0,"Battery",0,1
+"Male",26,"Caucasian",0,"Battery",0,6
+"Male",26,"African-American",4,"Possession Of Methamphetamine",1,8
+"Female",26,"African-American",0,"Possess Cannabis/20 Grams Or Less",0,4
+"Female",31,"African-American",0,"Battery",0,2
+"Female",41,"Caucasian",12,"Felony Battery w/Prior Convict",1,7
+"Female",32,"African-American",0,"Felony Driving While Lic Suspd",0,2
+"Male",19,"Other",0,"Battery",1,9
+"Male",24,"African-American",0,"Battery",0,2
+"Male",75,"Caucasian",2,"Driving License Suspended",0,1
+"Female",41,"Hispanic",0,"Burglary Structure Unoccup",0,1
+"Female",27,"Caucasian",0,"Aggrav Battery w/Deadly Weapon",0,2
+"Male",36,"African-American",15,"arrest case no charge",0,5
+"Male",45,"African-American",3,"Viol Pretrial Release Dom Viol",0,2
+"Male",42,"African-American",7,"Felony Battery (Dom Strang)",1,5
+"Male",27,"African-American",1,"Possess Cannabis/20 Grams Or Less",0,5
+"Male",33,"African-American",14,"Possession of Oxycodone",0,5
+"Male",26,"Caucasian",9,"Violation Of Boater Safety Id",1,4
+"Male",32,"Caucasian",0,"Battery",0,1
+"Male",61,"Caucasian",0,"DUI Level 0.15 Or Minor In Veh",0,1
+"Male",21,"African-American",0,"Battery",0,10
+"Male",69,"African-American",22,"Assault",0,5
+"Male",30,"African-American",9,"Poss of Firearm by Convic Felo",1,10
+"Male",21,"Caucasian",1,"arrest case no charge",0,4
+"Male",41,"Caucasian",0,"DUI Property Damage/Injury",0,2
+"Male",50,"Caucasian",2,"Battery",1,1
+"Male",26,"Caucasian",5,"Lve/Scen/Acc/Veh/Prop/Damage",0,4
+"Male",37,"Caucasian",0,"Battery",0,3
+"Male",24,"Hispanic",1,"Contribute Delinquency Of A Minor",0,2
+"Male",49,"Caucasian",1,"Resist Officer w/Violence",0,1
+"Male",67,"Caucasian",0,"DUI- Enhanced",0,1
+"Male",43,"African-American",4,"Viol Pretrial Release Dom Viol",1,5
+"Male",31,"Hispanic",0,"Petit Theft $100- $300",0,5
+"Male",20,"African-American",0,"Burglary Dwelling Occupied",0,6
+"Male",27,"Caucasian",4,"Burglary Dwelling Assault/Batt",0,7
+"Female",22,"Caucasian",2,"arrest case no charge",0,7
+"Male",33,"Hispanic",1,"Driving Under The Influence",0,4
+"Male",28,"African-American",1,"Possession of Codeine",0,7
+"Male",23,"Caucasian",4,"Poss Pyrrolidinovalerophenone",1,6
+"Female",33,"Caucasian",2,"arrest case no charge",0,4
+"Male",37,"African-American",2,"Driving License Suspended",0,1
+"Male",27,"Caucasian",1,"arrest case no charge",0,3
+"Male",24,"Caucasian",0,"Tamper With Victim",1,5
+"Female",41,"African-American",6,"Petit Theft",0,6
+"Male",20,"African-American",1,"Prowling/Loitering",0,4
+"Male",33,"Caucasian",7,"Neglect Child / No Bodily Harm",1,9
+"Male",44,"Caucasian",6,"arrest case no charge",1,6
+"Male",56,"African-American",9,"arrest case no charge",0,8
+"Female",19,"African-American",0,"Exposes Culpable Negligence",1,8
+"Male",57,"Caucasian",0,"Aggrav Battery w/Deadly Weapon",0,1
+"Male",26,"African-American",0,"Traffick Amphetamine 28g><200g",0,5
+"Male",19,"African-American",1,"arrest case no charge",1,10
+"Male",21,"African-American",0,"Carrying Concealed Firearm",0,7
+"Female",32,"African-American",0,"Burglary Conveyance Unoccup",0,3
+"Male",34,"Caucasian",2,"arrest case no charge",0,4
+"Male",35,"Caucasian",2,"Battery On Fire Fighter",1,5
+"Male",25,"Caucasian",0,"DUI Property Damage/Injury",0,2
+"Male",60,"African-American",9,"Possession of Cocaine",0,8
+"Male",21,"African-American",0,"Felony Battery (Dom Strang)",1,4
+"Male",21,"Hispanic",0,"Battery",0,3
+"Male",53,"Caucasian",1,"Lewd or Lascivious Molestation",0,1
+"Male",31,"African-American",2,"arrest case no charge",0,3
+"Male",28,"African-American",14,"Resist/Obstruct W/O Violence",1,7
+"Male",42,"African-American",1,"Viol Pretrial Release Dom Viol",1,6
+"Male",41,"Hispanic",19,"Felony Petit Theft",1,10
+"Male",57,"Caucasian",0,"Prowling/Loitering",0,1
+"Male",37,"Caucasian",1,"Disorderly Conduct",1,5
+"Female",23,"Other",0,"Battery",0,5
+"Male",25,"Caucasian",1,"Poss3,4 Methylenedioxymethcath",0,6
+"Male",66,"Caucasian",0,"Grand Theft in the 3rd Degree",0,1
+"Male",73,"Caucasian",0,"Battery",0,1
+"Male",40,"African-American",6,"Possession of Cocaine",0,7
+"Male",34,"Caucasian",0,"Battery",0,2
+"Male",47,"African-American",1,"Battery",1,1
+"Female",20,"Caucasian",0,"Grand Theft in the 3rd Degree",1,3
+"Female",43,"Caucasian",0,"Grand Theft (Motor Vehicle)",0,2
+"Female",32,"Hispanic",1,"Burglary Conveyance Occupied",0,2
+"Male",29,"African-American",1,"DUI Blood Alcohol Above 0.20",1,2
+"Male",35,"African-American",0,"Tampering With Physical Evidence",0,4
+"Male",21,"African-American",0,"Aggravated Battery / Pregnant",0,3
+"Female",20,"African-American",0,"Grand Theft in the 3rd Degree",0,4
+"Male",32,"African-American",9,"Burglary Unoccupied Dwelling",0,9
+"Male",34,"African-American",8,"arrest case no charge",0,10
+"Male",37,"Other",0,"Battery",0,1
+"Female",32,"African-American",0,"Battery",0,2
+"Male",23,"African-American",1,"",0,2
+"Female",33,"African-American",3,"Battery",0,4
+"Male",33,"Caucasian",0,"Resist Officer w/Violence",0,1
+"Male",41,"African-American",2,"arrest case no charge",1,6
+"Male",32,"African-American",2,"Possession of Cocaine",1,8
+"Male",28,"African-American",7,"Grand Theft in the 3rd Degree",1,10
+"Female",39,"Hispanic",10,"Battery on a Person Over 65",1,4
+"Male",43,"African-American",8,"Battery",0,2
+"Male",29,"Hispanic",0,"Battery",0,1
+"Male",44,"Caucasian",2,"Battery",0,4
+"Male",56,"African-American",6,"Possession of Cocaine",0,2
+"Female",58,"Other",0,"Harass Witness/Victm/Informnt",0,1
+"Female",30,"African-American",0,"Battery",0,3
+"Male",47,"Caucasian",1,"Grand Theft in the 3rd Degree",0,1
+"Male",23,"African-American",1,"Possession of Cocaine",0,7
+"Male",23,"Caucasian",2,"Aggravated Assault W/Dead Weap",0,6
+"Male",56,"Caucasian",7,"Grand Theft in the 3rd Degree",0,5
+"Male",22,"African-American",5,"arrest case no charge",1,10
+"Male",55,"Caucasian",0,"Battery",0,1
+"Female",24,"African-American",0,"Battery",0,2
+"Male",24,"Other",3,"Battery",1,8
+"Male",24,"African-American",1,"Battery",1,2
+"Male",24,"African-American",0,"Possession Of 3,4Methylenediox",0,9
+"Male",50,"Caucasian",0,"Felony Battery (Dom Strang)",1,1
+"Male",25,"African-American",1,"Burglary Unoccupied Dwelling",0,4
+"Male",46,"Caucasian",4,"Poss3,4 Methylenedioxymethcath",0,4
+"Female",51,"Hispanic",2,"Battery",0,1
+"Male",56,"Hispanic",10,"Battery",1,2
+"Male",41,"African-American",0,"Grand Theft in the 3rd Degree",0,7
+"Male",30,"African-American",0,"Felony Battery (Dom Strang)",0,1
+"Female",24,"Caucasian",2,"Obtain Control Substance By Fraud",0,9
+"Female",49,"African-American",1,"Felony Driving While Lic Suspd",0,1
+"Female",24,"African-American",2,"Felony Driving While Lic Suspd",1,6
+"Male",31,"Caucasian",0,"Possession of Cocaine",0,7
+"Female",38,"African-American",0,"Viol Prot Injunc Repeat Viol",0,4
+"Male",40,"African-American",5,"arrest case no charge",1,7
+"Male",43,"African-American",7,"arrest case no charge",0,4
+"Female",23,"Caucasian",1,"Battery",0,6
+"Female",26,"African-American",2,"arrest case no charge",0,9
+"Male",27,"African-American",3,"Susp Drivers Lic 1st Offense",0,2
+"Female",31,"African-American",10,"Uttering a Forged Instrument",0,8
+"Male",37,"African-American",0,"Felony Battery (Dom Strang)",1,1
+"Female",35,"African-American",1,"arrest case no charge",0,1
+"Male",44,"Caucasian",0,"Battery",1,1
+"Male",29,"African-American",5,"arrest case no charge",0,10
+"Male",36,"African-American",4,"Possession of Cocaine",0,4
+"Male",50,"Caucasian",0,"Carrying Concealed Firearm",0,1
+"Male",58,"Caucasian",1,"Aggravated Assault W/Dead Weap",1,1
+"Male",56,"Caucasian",0,"Retail Theft $300 1st Offense",0,1
+"Female",19,"African-American",1,"Burglary Unoccupied Dwelling",1,9
+"Male",47,"African-American",1,"Battery",0,4
+"Male",25,"African-American",9,"arrest case no charge",0,7
+"Male",41,"African-American",5,"Driving License Suspended",0,5
+"Male",48,"African-American",4,"Grand Theft in the 3rd Degree",0,6
+"Female",31,"Caucasian",2,"Grand Theft (Motor Vehicle)",0,1
+"Female",32,"Caucasian",4,"Resist Officer w/Violence",0,2
+"Male",48,"African-American",0,"Felony Battery (Dom Strang)",0,1
+"Male",22,"African-American",0,"Att Burgl Unoccupied Dwel",0,2
+"Male",44,"Caucasian",5,"arrest case no charge",0,2
+"Male",35,"Caucasian",2,"Possession Of Heroin",0,9
+"Female",22,"African-American",2,"Agg Battery Grt/Bod/Harm",0,5
+"Male",30,"African-American",1,"Murder in 2nd Degree",0,1
+"Male",45,"African-American",1,"arrest case no charge",0,9
+"Female",37,"African-American",4,"arrest case no charge",0,5
+"Male",26,"Native American",11,"Possession of Cocaine",1,8
+"Male",37,"African-American",11,"Battery",1,7
+"Male",33,"African-American",8,"Aggravated Assault W/Dead Weap",0,5
+"Male",38,"African-American",0,"arrest case no charge",0,1
+"Male",38,"Caucasian",2,"Possession Of Heroin",0,3
+"Male",57,"African-American",9,"Grand Theft (Motor Vehicle)",0,5
+"Male",33,"African-American",2,"Aggrav Battery w/Deadly Weapon",1,8
+"Male",58,"Caucasian",1,"Battery",0,1
+"Male",35,"African-American",6,"Uttering a Forged Instrument",1,8
+"Male",60,"Other",1,"Battery",0,1
+"Male",44,"Hispanic",0,"",1,1
+"Female",25,"Caucasian",0,"Battery",0,3
+"Male",56,"African-American",7,"Grand Theft (Motor Vehicle)",0,4
+"Male",34,"African-American",5,"Agg Assault W/int Com Fel Dome",0,1
+"Male",21,"African-American",1,"Carrying Concealed Firearm",0,7
+"Female",39,"African-American",22,"Possession of Cocaine",1,10
+"Male",32,"African-American",1,"arrest case no charge",0,2
+"Male",38,"Caucasian",0,"DUI Blood Alcohol Above 0.20",0,1
+"Male",37,"Caucasian",0,"Felony Battery (Dom Strang)",0,3
+"Female",23,"Hispanic",7,"Battery",1,8
+"Female",36,"African-American",4,"Battery",1,6
+"Male",35,"Caucasian",3,"Possession of Cocaine",1,5
+"Male",31,"Other",6,"Pos Cannabis W/Intent Sel/Del",0,5
+"Female",36,"African-American",1,"Possession of Cocaine",1,3
+"Male",34,"African-American",7,"Petit Theft",0,3
+"Male",42,"African-American",10,"Driving License Suspended",1,5
+"Male",40,"Caucasian",0,"Petit Theft",1,8
+"Male",31,"Caucasian",3,"Battery",0,5
+"Male",24,"African-American",1,"Grand Theft in the 3rd Degree",0,2
+"Male",24,"African-American",1,"Possession of Codeine",0,7
+"Male",33,"African-American",14,"Possession of Cocaine",1,8
+"Male",25,"African-American",0,"Felony Driving While Lic Suspd",0,2
+"Male",24,"Hispanic",3,"Battery",1,7
+"Female",32,"African-American",3,"Battery on Law Enforc Officer",0,6
+"Male",38,"African-American",2,"arrest case no charge",1,7
+"Male",50,"Caucasian",0,"Lewd or Lascivious Molestation",0,1
+"Male",25,"African-American",0,"Battery",1,2
+"Male",25,"African-American",4,"Battery",1,3
+"Male",24,"Hispanic",0,"Battery",0,2
+"Male",55,"Hispanic",0,"Viol Injunct Domestic Violence",0,1
+"Male",36,"Caucasian",4,"Driving Under The Influence",0,6
+"Male",47,"Caucasian",2,"Dealing in Stolen Property",0,1
+"Male",34,"African-American",4,"Battery",0,2
+"Female",44,"Caucasian",0,"Battery",0,1
+"Male",31,"African-American",11,"Poss Pyrrolidinovalerophenone",1,10
+"Male",30,"African-American",3,"Driving While License Revoked",0,2
+"Male",48,"Caucasian",2,"arrest case no charge",0,1
+"Male",58,"Caucasian",2,"Resist Officer w/Violence",0,5
+"Male",26,"Caucasian",2,"Aggravated Assault W/Dead Weap",1,9
+"Female",24,"Caucasian",0,"Uttering a Forged Instrument",0,8
+"Female",54,"Caucasian",7,"arrest case no charge",0,5
+"Male",32,"African-American",7,"Felony Driving While Lic Suspd",0,1
+"Female",27,"African-American",1,"Pos Cannabis W/Intent Sel/Del",0,10
+"Male",34,"African-American",0,"Poss Wep Conv Felon",0,10
+"Male",26,"African-American",0,"Battery",0,2
+"Female",37,"African-American",1,"Burglary With Assault/battery",0,1
+"Male",23,"African-American",4,"arrest case no charge",0,9
+"Male",27,"Caucasian",5,"Driving License Suspended",0,4
+"Male",37,"Hispanic",4,"Battery",1,1
+"Male",47,"Hispanic",1,"arrest case no charge",0,1
+"Male",21,"African-American",1,"Burglary Conveyance Unoccup",1,10
+"Male",33,"Asian",0,"Battery",0,1
+"Female",54,"Caucasian",0,"Battery",0,1
+"Male",33,"Caucasian",14,"arrest case no charge",0,9
+"Male",45,"Caucasian",1,"Battery",0,1
+"Female",29,"African-American",0,"Agg Battery Grt/Bod/Harm",0,10
+"Female",28,"African-American",0,"Aggravated Assault W/Dead Weap",0,3
+"Male",27,"Caucasian",1,"Possession of Cannabis",0,3
+"Female",30,"African-American",0,"Grand Theft on 65 Yr or Older",0,2
+"Male",56,"African-American",3,"arrest case no charge",0,1
+"Male",35,"African-American",1,"Battery",0,5
+"Male",24,"African-American",0,"Battery",0,3
+"Female",21,"African-American",2,"Petit Theft",0,3
+"Male",38,"African-American",9,"Grand Theft in the 3rd Degree",1,5
+"Male",51,"African-American",0,"Possession of Cocaine",1,4
+"Male",25,"African-American",0,"Battery",0,2
+"Male",51,"African-American",14,"arrest case no charge",0,5
+"Male",36,"Other",0,"Battery",0,1
+"Male",35,"Hispanic",3,"Burglary Structure Unoccup",1,1
+"Male",39,"Caucasian",0,"Possession of Cocaine",0,3
+"Male",26,"African-American",4,"Burglary Dwelling Occupied",1,6
+"Female",22,"Hispanic",0,"Battery",0,2
+"Male",24,"African-American",1,"Battery",1,6
+"Female",31,"African-American",2,"Exposes Culpable Negligence",0,3
+"Female",30,"African-American",2,"Grand Theft in the 3rd Degree",0,2
+"Female",24,"Other",2,"Possession Of Methamphetamine",1,4
+"Male",25,"African-American",5,"arrest case no charge",1,9
+"Male",31,"Caucasian",0,"Battery",1,1
+"Male",34,"African-American",12,"Unauth C/P/S Sounds>1000/Audio",0,7
+"Female",21,"African-American",0,"Possession Of Alprazolam",1,7
+"Male",58,"Caucasian",4,"Felony Petit Theft",1,5
+"Female",37,"African-American",0,"Exposes Culpable Negligence",0,1
+"Female",26,"African-American",1,"arrest case no charge",0,5
+"Female",35,"Hispanic",0,"Battery",0,2
+"Female",23,"African-American",0,"Battery",0,2
+"Male",38,"Other",2,"Grand Theft in the 3rd Degree",0,1
+"Male",31,"Caucasian",4,"Battery",1,7
+"Male",30,"Caucasian",1,"Uttering a Forged Instrument",0,3
+"Female",65,"African-American",0,"Grand Theft in the 3rd Degree",0,1
+"Female",59,"Caucasian",0,"Driving Under The Influence",0,1
+"Male",52,"African-American",1,"Tampering With Physical Evidence",0,1
+"Male",24,"African-American",15,"arrest case no charge",1,9
+"Male",41,"Hispanic",1,"Petit Theft $100- $300",0,1
+"Male",35,"Caucasian",2,"Possession Of Amphetamine",0,3
+"Female",30,"Caucasian",4,"arrest case no charge",0,6
+"Female",40,"African-American",15,"arrest case no charge",1,7
+"Male",21,"African-American",0,"Grand Theft (Motor Vehicle)",0,7
+"Female",26,"Other",4,"Battery",1,7
+"Male",45,"Caucasian",1,"DUI Property Damage/Injury",0,1
+"Female",31,"African-American",0,"Battery",0,6
+"Female",51,"Hispanic",0,"Battery",0,1
+"Male",47,"African-American",0,"Poss Pyrrolidinovalerophenone",1,8
+"Female",19,"African-American",0,"Criminal Mischief Damage <$200",1,4
+"Male",32,"Caucasian",0,"Grand Theft (Motor Vehicle)",1,1
+"Female",36,"Caucasian",0,"Battery",0,2
+"Male",61,"Hispanic",1,"Lewd or Lascivious Molestation",0,1
+"Male",23,"African-American",0,"Fleeing Or Attmp Eluding A Leo",1,2
+"Female",38,"Caucasian",1,"DUI Property Damage/Injury",0,1
+"Male",45,"Other",0,"DUI Property Damage/Injury",0,1
+"Male",21,"African-American",2,"Possession of Cannabis",0,9
+"Male",37,"Hispanic",1,"Aggravated Battery On 65/Older",0,1
+"Male",21,"Caucasian",0,"False Ownership Info/Pawn Item",1,3
+"Female",28,"African-American",4,"arrest case no charge",0,7
+"Male",22,"Caucasian",0,"Harm Public Servant Or Family",1,4
+"Female",23,"African-American",1,"Battery",0,5
+"Female",23,"African-American",0,"Possession of Hydrocodone",0,7
+"Female",61,"African-American",1,"arrest case no charge",0,6
+"Male",42,"African-American",1,"arrest case no charge",0,1
+"Female",44,"Caucasian",0,"Battery",0,1
+"Male",21,"African-American",0,"Burglary Conveyance Unoccup",0,5
+"Male",22,"African-American",0,"Grand Theft in the 3rd Degree",0,4
+"Female",32,"African-American",0,"Battery",1,1
+"Male",26,"African-American",6,"Poss Pyrrolidinovalerophenone",1,10
+"Male",55,"African-American",10,"Battery",1,7
+"Male",27,"African-American",0,"Battery",1,2
+"Female",45,"Caucasian",0,"Battery",0,1
+"Male",26,"African-American",3,"Burglary Unoccupied Dwelling",1,10
+"Male",41,"Caucasian",1,"Deliver Cannabis",0,1
+"Male",21,"African-American",0,"Battery",0,4
+"Male",27,"Hispanic",1,"Battery",0,2
+"Male",30,"Other",2,"Driving While License Revoked",0,8
+"Male",38,"African-American",14,"arrest case no charge",0,8
+"Male",60,"Hispanic",0,"Grand Theft in the 3rd Degree",0,4
+"Female",39,"Caucasian",1,"arrest case no charge",0,4
+"Male",30,"Caucasian",3,"Battery",0,3
+"Male",32,"African-American",7,"Felony Battery w/Prior Convict",1,8
+"Male",26,"Caucasian",7,"arrest case no charge",0,5
+"Male",24,"African-American",1,"Felony Battery (Dom Strang)",1,3
+"Male",37,"Hispanic",1,"Grand Theft in the 3rd Degree",0,5
+"Male",40,"Caucasian",3,"Driving Under The Influence",0,4
+"Male",33,"African-American",4,"Battery",0,3
+"Male",24,"Caucasian",0,"Deliver Cannabis",0,2
+"Male",68,"Caucasian",4,"Battery",0,1
+"Female",25,"African-American",3,"arrest case no charge",0,10
+"Male",24,"Caucasian",1,"arrest case no charge",0,9
+"Male",41,"African-American",24,"Possession of Cocaine",1,10
+"Male",25,"Caucasian",6,"Crim Use of Personal ID Info",1,8
+"Male",20,"African-American",0,"Operating W/O Valid License",1,10
+"Male",58,"Hispanic",1,"Battery",0,1
+"Male",28,"Caucasian",0,"Felony Battery (Dom Strang)",1,2
+"Male",26,"Hispanic",2,"Battery",0,1
+"Male",43,"Caucasian",0,"Battery",0,4
+"Male",50,"Caucasian",0,"Felony Battery (Dom Strang)",0,1
+"Female",31,"African-American",0,"Felony Battery (Dom Strang)",0,3
+"Male",41,"Caucasian",2,"Aggrav Battery w/Deadly Weapon",0,1
+"Male",26,"African-American",3,"Battery",1,4
+"Male",20,"African-American",0,"Aggrav Battery w/Deadly Weapon",1,7
+"Male",26,"African-American",1,"Grand Theft in the 3rd Degree",1,1
+"Female",43,"African-American",9,"Battery",0,9
+"Male",39,"Caucasian",1,"Pos Cannabis W/Intent Sel/Del",0,1
+"Female",20,"Other",0,"Disorderly Conduct",0,5
+"Male",25,"Caucasian",3,"Burglary Dwelling Assault/Batt",0,3
+"Male",31,"African-American",0,"Possession of Cocaine",0,2
+"Female",43,"African-American",2,"Viol Prot Injunc Repeat Viol",0,2
+"Female",55,"Hispanic",0,"Battery",0,1
+"Male",29,"African-American",6,"arrest case no charge",0,2
+"Male",24,"African-American",0,"Battery",0,3
+"Male",41,"Caucasian",1,"Felony Battery (Dom Strang)",1,4
+"Male",41,"African-American",1,"Grand Theft in the 3rd Degree",0,4
+"Male",55,"Other",4,"Dealing in Stolen Property",0,1
+"Male",23,"African-American",0,"Grand Theft (Motor Vehicle)",0,2
+"Male",36,"Caucasian",1,"Battery",0,2
+"Male",47,"Other",0,"Battery",0,1
+"Male",67,"Caucasian",2,"Att Burgl Unoccupied Dwel",0,1
+"Female",26,"African-American",1,"Aggravated Assault W/Dead Weap",0,8
+"Female",34,"Other",0,"Battery",0,1
+"Male",20,"African-American",2,"Principal In The First Degree",1,7
+"Male",20,"African-American",0,"Grand Theft (Motor Vehicle)",0,3
+"Male",23,"African-American",0,"Battery",0,5
+"Male",34,"African-American",2,"arrest case no charge",1,3
+"Male",23,"Caucasian",0,"Burglary Unoccupied Dwelling",0,2
+"Male",25,"Caucasian",2,"Driving Under The Influence",1,4
+"Male",45,"African-American",7,"Felony Driving While Lic Suspd",0,1
+"Male",28,"African-American",12,"Felony Driving While Lic Suspd",0,5
+"Female",23,"Caucasian",1,"Possess Cannabis/20 Grams Or Less",0,2
+"Male",30,"African-American",2,"Crim Use of Personal ID Info",1,8
+"Female",56,"African-American",2,"Grand Theft in the 3rd Degree",0,2
+"Male",30,"African-American",4,"Battery",1,2
+"Male",56,"Caucasian",1,"Possession of Cocaine",0,2
+"Male",30,"Caucasian",0,"DUI - Enhanced",0,1
+"Male",29,"Other",8,"Felony Petit Theft",1,6
+"Male",19,"African-American",1,"Dealing in Stolen Property",1,4
+"Male",67,"African-American",8,"Crimin Mischief Damage $1000+",0,4
+"Male",30,"African-American",4,"Battery",0,2
+"Male",37,"Caucasian",4,"Possess Cannabis/20 Grams Or Less",1,5
+"Male",52,"Hispanic",0,"Battery",0,1
+"Male",27,"African-American",0,"Crim Use of Personal ID Info",0,6
+"Female",41,"African-American",0,"Aggravated Battery",0,1
+"Male",33,"African-American",0,"Battery",0,1
+"Male",37,"Caucasian",13,"Neglect Child / No Bodily Harm",0,7
+"Male",46,"African-American",2,"Battery",0,7
+"Male",31,"African-American",13,"Poss Pyrrolidinovalerophenone",1,9
+"Male",23,"Caucasian",0,"Driving Under The Influence",0,4
+"Female",20,"Caucasian",0,"arrest case no charge",1,10
+"Male",44,"African-American",8,"Battery",1,8
+"Male",42,"Hispanic",1,"Driving Under The Influence",0,1
+"Male",42,"Caucasian",1,"Possession Of Paraphernalia",0,2
+"Male",43,"Other",2,"Battery",0,1
+"Male",32,"Caucasian",6,"Driving While License Revoked",0,8
+"Male",44,"Caucasian",5,"arrest case no charge",0,2
+"Female",36,"African-American",1,"Aggrav Battery w/Deadly Weapon",0,5
+"Male",29,"African-American",5,"arrest case no charge",1,5
+"Female",21,"African-American",0,"Battery",0,5
+"Male",50,"African-American",1,"Possess Weapon On School Prop",0,1
+"Male",56,"African-American",1,"arrest case no charge",0,1
+"Male",27,"Caucasian",3,"Viol Injunct Domestic Violence",0,3
+"Male",30,"Caucasian",0,"Grand Theft in the 3rd Degree",0,3
+"Female",20,"African-American",0,"Grand Theft in the 3rd Degree",0,5
+"Male",64,"African-American",8,"arrest case no charge",1,4
+"Male",31,"Caucasian",3,"Battery",1,2
+"Female",24,"Caucasian",0,"Battery",0,3
+"Male",28,"African-American",6,"Drivg While Lic Suspd/Revk/Can",0,1
+"Male",39,"Hispanic",0,"Aggravated Assault W/Dead Weap",0,1
+"Female",38,"Other",0,"Poss3,4 Methylenedioxymethcath",0,1
+"Male",29,"African-American",0,"Battery",0,3
+"Male",44,"African-American",0,"Robbery / No Weapon",0,3
+"Male",26,"African-American",10,"arrest case no charge",1,9
+"Female",56,"Caucasian",0,"Battery",0,1
+"Male",30,"Caucasian",0,"Possession of Cannabis",0,2
+"Female",53,"African-American",5,"Unlicensed Telemarketing",0,6
+"Male",37,"Hispanic",4,"Conspiracy to Deliver Cocaine",0,5
+"Male",26,"Caucasian",10,"Driving License Suspended",1,8
+"Male",57,"Caucasian",3,"Fraud Obtain Food or Lodging",0,1
+"Male",25,"African-American",4,"Burglary Unoccupied Dwelling",1,9
+"Male",19,"African-American",0,"Resist Officer w/Violence",1,4
+"Male",46,"Caucasian",1,"arrest case no charge",0,1
+"Male",28,"Caucasian",0,"Manufacture Cannabis",1,3
+"Male",34,"African-American",0,"Possession of Cocaine",1,8
+"Male",30,"Hispanic",3,"Driving Under The Influence",0,4
+"Male",25,"African-American",1,"Possession Of Methamphetamine",0,2
+"Male",45,"Caucasian",2,"arrest case no charge",0,1
+"Male",21,"African-American",0,"Possession Firearm School Prop",0,4
+"Male",34,"Caucasian",15,"Possession of Cocaine",0,7
+"Female",20,"Other",1,"Battery",0,4
+"Male",24,"Caucasian",0,"Falsely Impersonating Officer",0,3
+"Male",23,"African-American",0,"Battery",1,3
+"Male",29,"African-American",6,"Felony Driving While Lic Suspd",1,6
+"Male",29,"African-American",4,"Assault",1,5
+"Male",45,"Hispanic",0,"Felony Battery (Dom Strang)",0,1
+"Male",24,"African-American",5,"Poss3,4 Methylenedioxymethcath",0,6
+"Male",29,"Caucasian",0,"Battery",1,1
+"Male",21,"Caucasian",1,"arrest case no charge",0,5
+"Male",27,"Hispanic",1,"Operating W/O Valid License",0,2
+"Male",30,"African-American",13,"Felony Battery",1,10
+"Female",42,"Caucasian",0,"DUI Level 0.15 Or Minor In Veh",0,2
+"Male",34,"African-American",1,"Battery",0,2
+"Male",52,"African-American",2,"DUI Property Damage/Injury",0,1
+"Male",30,"Caucasian",0,"Felony Battery (Dom Strang)",0,1
+"Female",26,"Hispanic",0,"Battery",0,3
+"Female",39,"Hispanic",2,"arrest case no charge",0,2
+"Male",26,"African-American",1,"arrest case no charge",1,8
+"Male",23,"African-American",0,"Pos Cannabis W/Intent Sel/Del",0,2
+"Male",43,"African-American",4,"arrest case no charge",1,1
+"Male",44,"African-American",12,"Tamper With Witness/Victim/CI",0,9
+"Male",24,"Other",0,"Conspiracy Dealing Stolen Prop",0,6
+"Female",20,"African-American",0,"Battery",1,7
+"Male",30,"African-American",0,"Battery",0,1
+"Male",36,"Caucasian",12,"arrest case no charge",0,1
+"Male",39,"Caucasian",0,"Felony DUI - Enhanced",1,1
+"Male",37,"Caucasian",3,"Possession of Cocaine",0,4
+"Male",21,"African-American",8,"arrest case no charge",1,9
+"Female",36,"African-American",4,"arrest case no charge",0,2
+"Male",32,"Caucasian",4,"Battery",1,2
+"Male",46,"Hispanic",1,"Operating W/O Valid License",0,1
+"Male",30,"African-American",1,"Aggravated Battery / Pregnant",0,2
+"Male",24,"Caucasian",2,"Driving Under The Influence",0,2
+"Female",52,"African-American",3,"False 911 Call",0,1
+"Male",21,"Hispanic",1,"Possession of Cocaine",0,8
+"Female",22,"Hispanic",1,"arrest case no charge",1,5
+"Male",25,"African-American",0,"Corrupt Public Servant",1,2
+"Male",24,"African-American",2,"Battery",1,9
+"Male",33,"African-American",9,"Battery",1,7
+"Male",22,"African-American",2,"Driving While License Revoked",0,6
+"Female",29,"African-American",0,"Aggravated Battery (Firearm)",1,4
+"Male",31,"African-American",0,"Possession of Cocaine",0,9
+"Female",56,"Caucasian",3,"Unlicensed Telemarketing",0,1
+"Male",22,"African-American",2,"Viol Injunct Domestic Violence",1,9
+"Male",39,"Caucasian",0,"Driving Under The Influence",0,1
+"Male",36,"Caucasian",1,"Burglary Structure Unoccup",0,2
+"Male",20,"African-American",2,"Aggravated Assault W/Dead Weap",1,3
+"Male",27,"African-American",1,"Aggravated Battery / Pregnant",1,4
+"Male",27,"African-American",0,"Burglary Unoccupied Dwelling",0,5
+"Female",48,"African-American",0,"Battery",0,5
+"Female",26,"African-American",1,"Battery",0,4
+"Male",58,"Other",0,"Grand Theft in the 3rd Degree",0,1
+"Female",48,"Other",0,"Battery",0,1
+"Male",56,"Hispanic",2,"Opert With Susp DL 2nd Offens",0,8
+"Male",20,"Native American",1,"arrest case no charge",1,9
+"Male",32,"Caucasian",0,"Battery",0,3
+"Male",26,"African-American",2,"Agg Battery Grt/Bod/Harm",0,4
+"Male",29,"African-American",15,"Felony Battery w/Prior Convict",1,9
+"Male",56,"Caucasian",1,"Battery",0,1
+"Male",20,"Hispanic",0,"Burglary Conveyance Unoccup",0,3
+"Male",22,"African-American",0,"Felony Battery (Dom Strang)",0,3
+"Male",34,"African-American",3,"Aggravated Battery / Pregnant",0,1
+"Male",34,"Caucasian",1,"Battery",0,5
+"Female",32,"Hispanic",0,"Battery",0,1
+"Male",25,"African-American",6,"Battery",1,7
+"Female",40,"Caucasian",0,"Battery",0,5
+"Male",37,"African-American",4,"Criminal Mischief>$200<$1000",1,7
+"Female",35,"Hispanic",0,"Grand Theft in the 3rd Degree",0,2
+"Male",59,"Caucasian",2,"DUI Level 0.15 Or Minor In Veh",1,1
+"Male",32,"African-American",6,"Possession of Cocaine",0,6
+"Male",50,"Hispanic",2,"DUI Property Damage/Injury",0,1
+"Male",20,"African-American",1,"arrest case no charge",0,6
+"Male",39,"Other",0,"Battery",1,1
+"Female",51,"Caucasian",7,"Crim Use of Personal ID Info",0,5
+"Male",28,"African-American",0,"Criminal Mischief",1,3
+"Male",21,"Caucasian",0,"Burglary Unoccupied Dwelling",0,4
+"Male",39,"Caucasian",0,"Aggravated Battery / Pregnant",0,1
+"Female",37,"African-American",0,"Possession of Cocaine",0,5
+"Female",34,"African-American",0,"Poss Contr Subst W/o Prescript",0,1
+"Female",55,"Caucasian",0,"Battery",0,1
+"Male",26,"Caucasian",0,"Tamper With Witness/Victim/CI",1,6
+"Male",28,"African-American",0,"Uttering a Forged Instrument",0,2
+"Female",29,"African-American",0,"Possession of Cocaine",0,5
+"Female",59,"Caucasian",1,"Aggrav Battery w/Deadly Weapon",0,1
+"Female",27,"African-American",0,"Battery",0,3
+"Male",31,"Caucasian",0,"Grand Theft in the 3rd Degree",0,1
+"Male",47,"African-American",3,"Aggravated Assault W/Dead Weap",0,2
+"Male",38,"Other",1,"Possession Of Alprazolam",1,1
+"Male",56,"Caucasian",5,"Possession of Cocaine",0,1
+"Female",58,"Hispanic",1,"arrest case no charge",0,5
+"Female",41,"Hispanic",0,"Grand Theft in the 3rd Degree",0,1
+"Male",44,"Caucasian",1,"Burglary Dwelling Occupied",0,5
+"Female",34,"African-American",0,"Battery",1,1
+"Male",21,"Caucasian",2,"arrest case no charge",0,6
+"Male",31,"Caucasian",1,"Stalking (Aggravated)",1,3
+"Male",36,"African-American",6,"Battery",0,4
+"Male",31,"African-American",1,"Driving License Suspended",0,4
+"Female",25,"Caucasian",2,"Crim Use of Personal ID Info",1,9
+"Female",26,"Other",1,"Grand Theft in the 3rd Degree",0,2
+"Male",29,"Caucasian",1,"arrest case no charge",0,2
+"Male",46,"Caucasian",0,"Possession Of Methamphetamine",0,1
+"Female",27,"Caucasian",1,"arrest case no charge",1,5
+"Female",48,"Caucasian",0,"Grand Theft in the 3rd Degree",0,1
+"Male",23,"Hispanic",2,"Grand Theft in the 3rd Degree",0,9
+"Male",21,"African-American",0,"Grand Theft in the 3rd Degree",0,5
+"Male",31,"Other",3,"Felony Driving While Lic Suspd",1,6
+"Male",36,"Hispanic",1,"Battery",0,2
+"Female",30,"African-American",3,"Felony Driving While Lic Suspd",0,2
+"Male",37,"African-American",16,"arrest case no charge",1,8
+"Male",20,"African-American",0,"Deliver Cannabis 1000FTSch",1,5
+"Male",21,"Hispanic",2,"Burglary Dwelling Occupied",1,7
+"Male",45,"Hispanic",0,"Battery",0,1
+"Male",27,"African-American",9,"Poss Contr Subst W/o Prescript",1,7
+"Male",30,"Hispanic",0,"arrest case no charge",0,1
+"Male",21,"African-American",2,"Aggravated Assault w/Firearm",1,5
+"Female",25,"African-American",2,"Battery",0,4
+"Male",18,"African-American",4,"arrest case no charge",1,5
+"Female",24,"African-American",7,"Grand Theft in the 3rd Degree",0,9
+"Male",46,"Caucasian",1,"Possession of Oxycodone",0,1
+"Male",41,"Hispanic",3,"Felony Driving While Lic Suspd",0,1
+"Male",25,"African-American",0,"Assault",0,4
+"Female",29,"African-American",1,"Battery",0,4
+"Male",35,"African-American",2,"Sell or Offer for Sale Counterfeit Goods",0,1
+"Male",48,"African-American",4,"arrest case no charge",0,8
+"Male",33,"African-American",0,"Aggravated Assault W/Dead Weap",0,1
+"Male",23,"African-American",5,"False Imprisonment",1,7
+"Male",24,"African-American",0,"Poss3,4 Methylenedioxymethcath",0,4
+"Male",20,"African-American",0,"Grand Theft in the 3rd Degree",0,3
+"Female",24,"Caucasian",7,"Aggravated Battery / Pregnant",0,7
+"Male",27,"African-American",8,"Felony Battery w/Prior Convict",1,5
+"Female",55,"Caucasian",0,"Battery",0,1
+"Female",22,"African-American",1,"Battery",0,4
+"Male",24,"African-American",0,"Burglary Unoccupied Dwelling",0,2
+"Male",42,"Caucasian",0,"Battery",0,1
+"Male",63,"African-American",2,"Viol Injunct Domestic Violence",0,1
+"Male",55,"Caucasian",27,"Battery",0,5
+"Male",26,"African-American",3,"Petit Theft",0,6
+"Male",35,"African-American",4,"Possession of Cocaine",1,8
+"Male",29,"African-American",3,"arrest case no charge",1,10
+"Male",48,"Caucasian",0,"Possession of Cocaine",0,2
+"Male",29,"Hispanic",0,"Disorderly Conduct",1,2
+"Male",25,"Caucasian",1,"Battery",1,4
+"Female",55,"Hispanic",0,"Aggravated Battery / Pregnant",0,1
+"Female",48,"African-American",0,"Tampering With Physical Evidence",1,6
+"Male",77,"African-American",1,"Driving License Suspended",1,1
+"Male",26,"African-American",15,"arrest case no charge",0,9
+"Male",39,"Caucasian",2,"arrest case no charge",0,6
+"Male",52,"African-American",0,"Battery",1,6
+"Male",56,"African-American",4,"Battery",1,3
+"Male",26,"African-American",1,"Battery",0,1
+"Male",27,"African-American",5,"arrest case no charge",1,10
+"Female",34,"Caucasian",10,"Possession of Cocaine",1,9
+"Male",27,"African-American",2,"Posses/Disply Susp/Revk/Frd DL",0,2
+"Female",32,"African-American",0,"Battery",1,1
+"Female",26,"African-American",4,"arrest case no charge",0,3
+"Male",27,"African-American",4,"Aggravated Assault W/Dead Weap",1,5
+"Male",56,"Hispanic",2,"arrest case no charge",0,1
+"Male",26,"Caucasian",2,"Possession Burglary Tools",0,2
+"Male",20,"Caucasian",1,"Possession of Cannabis",0,4
+"Male",54,"African-American",12,"Battery",1,5
+"Female",55,"Caucasian",0,"Battery on a Person Over 65",0,1
+"Male",24,"African-American",0,"Battery",0,2
+"Male",20,"African-American",0,"Possession of Cocaine",1,10
+"Male",20,"Caucasian",0,"Battery",0,4
+"Male",31,"African-American",6,"Battery",1,6
+"Male",53,"African-American",3,"arrest case no charge",0,9
+"Male",25,"Caucasian",5,"Possession of Oxycodone",1,10
+"Female",42,"African-American",1,"Felony Driving While Lic Suspd",0,5
+"Male",26,"African-American",7,"Sell Cannabis",0,7
+"Male",34,"African-American",0,"Carrying Concealed Firearm",0,1
+"Male",51,"African-American",0,"Operating W/O Valid License",0,1
+"Male",47,"African-American",5,"Possession of Cocaine",0,6
+"Female",36,"Hispanic",1,"Battery",0,3
+"Male",37,"African-American",2,"Compulsory Attendance Violation",0,2
+"Male",27,"Hispanic",1,"Possession of Hydrocodone",1,4
+"Male",33,"Caucasian",0,"Battery",0,1
+"Male",27,"African-American",2,"Driving While License Revoked",0,3
+"Female",24,"Other",0,"Grand Theft in the 3rd Degree",0,4
+"Male",55,"Hispanic",0,"Battery",0,1
+"Male",50,"Hispanic",5,"Felony Driving While Lic Suspd",1,1
+"Male",32,"African-American",0,"Aggravated Battery / Pregnant",0,7
+"Male",33,"Hispanic",1,"Susp Drivers Lic 1st Offense",0,2
+"Male",25,"African-American",2,"arrest case no charge",0,8
+"Female",44,"Hispanic",0,"Battery",0,1
+"Male",22,"African-American",4,"Driving License Suspended",0,6
+"Female",51,"Caucasian",1,"Possession of Hydrocodone",0,1
+"Male",41,"African-American",12,"Possession Of Alprazolam",1,6
+"Male",46,"Caucasian",0,"Manufacture Cannabis",0,1
+"Male",32,"African-American",0,"Possession of Cannabis",0,9
+"Male",30,"African-American",1,"Battery",0,8
+"Male",29,"African-American",8,"Possession of Cocaine",1,10
+"Female",25,"African-American",1,"Battery",1,8
+"Male",49,"Caucasian",3,"Agg Battery Grt/Bod/Harm",0,1
+"Male",59,"Caucasian",0,"Battery",0,1
+"Male",31,"Caucasian",3,"Driving Under The Influence",0,7
+"Male",43,"Other",1,"Possession of Cocaine",0,1
+"Male",27,"African-American",11,"Deliver Cocaine",0,9
+"Male",54,"Caucasian",3,"Grand Theft in the 3rd Degree",1,3
+"Male",34,"Other",3,"Battery",0,2
+"Male",36,"Caucasian",0,"Possession of Cocaine",1,8
+"Male",62,"African-American",0,"DUI Level 0.15 Or Minor In Veh",0,1
+"Male",23,"Caucasian",0,"Battery",0,5
+"Male",53,"Other",0,"Battery",0,1
+"Male",23,"African-American",1,"Prowling/Loitering",1,10
+"Male",29,"African-American",0,"Felony Battery w/Prior Convict",0,2
+"Male",28,"African-American",1,"arrest case no charge",1,1
+"Male",36,"Caucasian",1,"Grand Theft in the 3rd Degree",0,2
+"Female",46,"Caucasian",0,"DUI Property Damage/Injury",0,1
+"Male",30,"African-American",0,"Battery",0,1
+"Male",23,"Caucasian",3,"Battery",0,7
+"Female",30,"Caucasian",5,"Sel Etc/Pos/w/Int Contrft Schd",1,5
+"Male",45,"African-American",38,"Felony Battery w/Prior Convict",1,8
+"Male",30,"Hispanic",0,"Battery",0,1
+"Male",49,"African-American",1,"Battery",0,1
+"Male",32,"Hispanic",6,"Battery",1,5
+"Male",28,"Caucasian",4,"arrest case no charge",1,4
+"Male",49,"African-American",2,"Neglect Child / No Bodily Harm",0,1
+"Male",45,"African-American",6,"Possession Of Alprazolam",0,4
+"Male",21,"African-American",0,"Burglary Conveyance Armed",0,3
+"Female",25,"Hispanic",14,"Burglary Unoccupied Dwelling",0,6
+"Male",21,"Caucasian",0,"Tampering With Physical Evidence",0,9
+"Male",36,"African-American",2,"Battery",1,9
+"Female",24,"African-American",0,"Uttering a Forged Instrument",1,4
+"Female",67,"Caucasian",0,"DUI Property Damage/Injury",0,1
+"Male",37,"African-American",4,"Battery",1,4
+"Female",31,"Caucasian",1,"Battery",1,1
+"Male",51,"Caucasian",1,"Grand Theft in the 3rd Degree",0,1
+"Female",27,"African-American",1,"Uttering a Forged Instrument",0,3
+"Male",41,"Caucasian",1,"Aggrav Battery w/Deadly Weapon",1,1
+"Male",34,"Caucasian",11,"Driving While License Revoked",0,4
+"Male",23,"African-American",3,"Carrying Concealed Firearm",0,6
+"Female",22,"Caucasian",2,"arrest case no charge",1,6
+"Male",25,"Caucasian",0,"Disorderly Intoxication",0,9
+"Male",22,"African-American",0,"Battery",1,10
+"Female",44,"African-American",6,"Possession of Cocaine",0,6
+"Male",46,"Caucasian",0,"Aggravated Assault",0,1
+"Male",33,"Caucasian",2,"Possession of Oxycodone",0,4
+"Male",43,"Caucasian",6,"Assault",1,2
+"Male",27,"Hispanic",4,"False Imprisonment",1,2
+"Male",21,"African-American",1,"Battery",0,5
+"Male",23,"Hispanic",0,"Battery",1,2
+"Female",47,"African-American",4,"Battery",0,6
+"Male",27,"Caucasian",2,"Felony Batt(Great Bodily Harm)",1,3
+"Male",32,"Hispanic",1,"Grand Theft in the 3rd Degree",0,3
+"Male",57,"African-American",28,"Possession of Cocaine",1,10
+"Male",22,"African-American",1,"Battery",1,6
+"Male",33,"African-American",0,"Failure To Return Hired Vehicle",1,1
+"Male",63,"African-American",1,"arrest case no charge",0,1
+"Female",29,"African-American",0,"Robbery / No Weapon",0,2
+"Male",26,"Caucasian",0,"Tampering With Physical Evidence",0,4
+"Male",24,"African-American",0,"Viol Injunct Domestic Violence",1,6
+"Male",20,"African-American",2,"Felony Batt(Great Bodily Harm)",1,10
+"Male",38,"Caucasian",1,"Reckless Driving",1,1
+"Male",39,"Caucasian",0,"Grand Theft (Motor Vehicle)",0,2
+"Male",34,"Caucasian",5,"arrest case no charge",0,1
+"Male",22,"African-American",8,"Burglary Unoccupied Dwelling",1,4
+"Male",20,"Asian",2,"Grand Theft in the 3rd Degree",1,10
+"Male",40,"Caucasian",0,"Felony Battery (Dom Strang)",0,1
+"Male",24,"Hispanic",0,"Battery",0,3
+"Male",43,"African-American",5,"arrest case no charge",0,6
+"Male",29,"African-American",2,"Possession of Cannabis",1,2
+"Female",24,"Caucasian",1,"Burglary Structure Occupied",0,4
+"Female",26,"African-American",4,"Felony Battery",1,8
+"Male",33,"African-American",3,"Carrying Concealed Firearm",0,4
+"Male",23,"African-American",0,"Felony Battery (Dom Strang)",0,2
+"Female",30,"Caucasian",3,"Driving While License Revoked",0,5
+"Male",44,"African-American",11,"arrest case no charge",1,5
+"Male",30,"Caucasian",2,"arrest case no charge",0,3
+"Male",51,"Caucasian",4,"Battery",0,1
+"Male",36,"African-American",0,"DUI - Enhanced",0,2
+"Male",30,"Caucasian",2,"Battery",0,9
+"Female",49,"Caucasian",2,"Grand Theft (Motor Vehicle)",0,6
+"Male",67,"Caucasian",2,"arrest case no charge",0,2
+"Female",30,"Caucasian",2,"Battery",1,1
+"Male",28,"African-American",1,"arrest case no charge",0,2
+"Male",23,"African-American",0,"Leaving the Scene of Accident",0,3
+"Male",57,"Other",0,"Aggravated Battery / Pregnant",0,1
+"Female",33,"African-American",3,"Battery on Law Enforc Officer",0,2
