@@ -75,28 +75,6 @@
 	<li><a href="https://datavizf24.classes.andrewheiss.com/resource/quarto.html">Using Quarto</a></li>
 	<li><a href="https://datavizf24.classes.andrewheiss.com/resource/colors.html">Color palettes</a></li>
 	</ul>
-		
-		<section id="morning">
-        <h2>Morning Session Materials</h2>
-		<ul>
-			<li><a href="docs/Orientation.pdf" target="_blank"> Orientation (PDF)</a></li>
-			<li><a href="docs/HowtoPrepareGoodPoster.pdf" target="_blank"> How to Prepare a Good Poster (PDF)</a></li>
-			<li><a href="docs/STARS @SLU.pptx" target="_blank"> Mental Health Matters: Navigating Your Wellness Journey.(PPTX)</a></li>
-        </ul>
-       </section>
-
-		<section id="speaker">
-            <h2>Invited Speakers</h2>
-            <p> On Tuesday, June 2, Dr. Olu Owoeye will lead an interactive, discussion-based session exploring how mathematics 
-				and data analysis are applied to sports injury prevention. 
-				Read this <a href="docs/olu-owoeye.pdf" target="_blank">article (PDF)</a> beforehand to prepare for the discussion.
-            </p>
-
-			 <p> On Thursday, June 4, Dr. Christopher Schmank led an interactive, discussion-based session exploring how mathematics 
-				and data analysis are applied to psychological sciences. Here is the talk <a href="docs/How to deal with your data-Psychological Science.pdf" target="_blank">slides (PDF)</a>.
-            </p>
-        </section>
-
 
 	<h2>Data Science Project Materials</h2>
 	  <h3>Timeline</h3>
@@ -109,45 +87,100 @@
 			<li>Friday: 12:00 - arrive for poster session from 1-2pm</li>
 		</ul>
 	      
-	  <h3>Good sources of data</h3>
-          <ul>
-            <li>General:
+	  <h3>Where to look for data</h3>
+      <ul>
+        <li>General:
 		    <a href="https://www.data-is-plural.com">Data Is Plural</a>,
                     <a href="https://kaggle.com">Kaggle</a>,
 		    <a href="https://github.com/rfordatascience/tidytuesday/blob/main/README.md">Tidy Tuesday</a>,
 		    <a href="https://www.reddit.com/r/dataisbeautiful/">r/dataisbeautiful</a>
 	    </li>
-	    <li>
-              <a href="https://data.gov">Data.gov</a>,
-			<a href="https://www.who.int/data">World Health Organization Data</a>,
-	      <a href="https://data.cms.gov/provider-data/">Medicare provider data</a>
-	    </li>
-	    <li>
+	    <li>Local:
 	      <a href="https://www.stlouis-mo.gov/data/index.cfm">City of St. Louis Open Data</a>,
 	      <a href="https://stlouiscountymo.gov/open-data/">St. Louis County Open Data</a>,
 	      <a href="https://dese.mo.gov/school-data">Missouri DESE (School) Data</a>
-            </li>
-            <li>R packages:
-              US Census data (<a href="https://walkerke.github.io/tidycensus/">tidycensus</a>)
-            </li>
-          </ul>
+        </li>
+    </ul>
+		
+<h4>Global / Intergovernmental</h3>
+<ul>
+  <li><a href="https://data.worldbank.org/">World Bank</a> — <code>WDI</code> package; raw API at <code>api.worldbank.org/v2/</code></li>
+  <li><a href="https://data.un.org/">UN Data</a> — <code>UNdata</code> package or OData-style REST API</li>
+  <li><a href="https://data.oecd.org/">OECD</a> — <code>OECD</code> or <code>rsdmx</code> package; SDMX-based API</li>
+  <li><a href="https://dataservices.imf.org/">IMF</a> — <code>imfr</code> package or SDMX JSON API</li>
+  <li><a href="https://ec.europa.eu/eurostat/web/main/data/database">Eurostat</a> — <code>eurostat</code> package — very polished</li>
+</ul>
+
+<h4>US Government</h3>
+<ul>
+  <li><a href="https://data.gov">Data.gov</a></li>
+  <li><a href="https://www.census.gov/data/developers.html">Census Bureau</a> — <code>tidycensus</code> (ACS, decennial) — the gold standard</li>
+  <li><a href="https://wonder.cdc.gov/">CDC WONDER</a> — <code>wondr</code> or raw REST; also CDC's SODA API via <code>RSocrata</code></li>
+  <li><a href="https://fred.stlouisfed.org/">FRED (Federal Reserve)</a> — <code>fredr</code> package — clean key-based API</li>
+  <li><a href="https://www.bls.gov/developers/">BLS</a> — <code>blsR</code> or raw JSON API</li>
+  <li><a href="https://dev.socrata.com/">data.gov / Socrata portals</a> — <code>RSocrata</code> works across hundreds of portals</li>
+</ul>
+
+<h4>Health-Specific</h3>
+<ul>
+  <li><a href="https://data.cms.gov/provider-data/">Medicare provider data</a></li>
+  <li><a href="https://www.healthdata.org/gbd">IHME / GBD</a> — bulk CSV downloads; structured and well-documented</li>
+  <li><a href="https://www.ncbi.nlm.nih.gov/home/develop/api/">NCBI / PubMed / GenBank</a> — <code>rentrez</code> package</li>
+  <li><a href="https://clinicaltrials.gov/data-api/api">ClinicalTrials.gov</a> — <code>ctrdata</code> or raw REST v2 API</li>
+</ul>
+
+<h4>Environment &amp; Earth Science</h3>
+<ul>
+  <li><a href="https://www.ncdc.noaa.gov/cdo-web/webservices/v2">NOAA</a> — <code>rnoaa</code> package</li>
+  <li><a href="https://earthdata.nasa.gov/">NASA EarthData</a> — <code>nasapower</code>, <code>MODISTools</code></li>
+  <li><a href="https://www.gbif.org/developer/summary">GBIF (biodiversity)</a> — <code>rgbif</code> package</li>
+</ul>
+
+<h4>General / Cross-domain</h3>
+<ul>
+  <li><a href="https://ourworldindata.org/">Our World in Data</a> — no API; clean bulk CSV downloads, readable directly from GitHub</li>
+  <li><a href="https://www.kaggle.com/docs/api">Kaggle</a> — <code>kaggler</code> package or CLI</li>
+  <li><a href="https://wiki.openstreetmap.org/wiki/API">OpenStreetMap</a> — <code>osmdata</code> package</li>
+</ul>
+		
 	<h2>Poster Template</h2>
 	       <ul>
 	          <li><a href="docs/STARS@SLU Poster Template.pptx">Poster Template (pptx)</a></li>
 	           <li><a href="docs/Poster Design Tips.pdf" target="_blank">Poster Design Tips (PDF)</a></li>
 	      </ul>
 	</section>
-		
-        <section id="contact">
+
+	<section id="morning">
+        <h2>Morning Session Materials</h2>
+		<ul>
+			<li><a href="docs/Orientation.pdf" target="_blank"> Orientation (PDF)</a></li>
+			<li><a href="docs/HowtoPrepareGoodPoster.pdf" target="_blank"> How to Prepare a Good Poster (PDF)</a></li>
+			<li><a href="docs/STARS @SLU.pptx" target="_blank"> Mental Health Matters: Navigating Your Wellness Journey.(PPTX)</a></li>
+        </ul>
+    </section>
+
+	<section id="speaker">
+            <h2>Invited Speakers</h2>
+            <p> On Tuesday, June 2, Dr. Olu Owoeye will lead an interactive, discussion-based session exploring how mathematics 
+				and data analysis are applied to sports injury prevention. 
+				Read this <a href="docs/olu-owoeye.pdf" target="_blank">article (PDF)</a> beforehand to prepare for the discussion.
+            </p>
+
+			 <p> On Thursday, June 4, Dr. Christopher Schmank led an interactive, discussion-based session exploring how mathematics 
+				and data analysis are applied to psychological sciences. Here is the talk <a href="docs/How to deal with your data-Psychological Science.pdf" target="_blank">slides (PDF)</a>.
+            </p>
+    </section>
+
+    <section id="contact">
             <h2>Contact</h2>
             <p>If you have questions, email: <a href="mailto:ozlem.ugurlu@slu.edu">ozlem.ugurlu@slu.edu</a></p>
-        </section>
+    </section>
 	    
-        <section id="sponsor" style="text-align:center; margin: 2rem 0;">
+    <section id="sponsor" style="text-align:center; margin: 2rem 0;">
             <img src="images/sponsor-logo.png" style="max-height:100px;">
             <p><small>Support for STARS@SLU is provided by the <strong>Mathematical Association of America</strong> 
                 and the <strong>Tensor Foundation.</strong> </small> </p>
-        </section>
+    </section>
     </main>
     <footer>
         <p>&copy; 2026 STARS@SLU</p>
